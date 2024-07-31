@@ -2,7 +2,7 @@ body {
     height: 96vh;
     background-image: url('bg2.gif');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100;
 }
 
 img {
